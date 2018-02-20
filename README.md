@@ -1,0 +1,2 @@
+# LocationReminder
+Read coordinates for user’s current location (minimum requirement) Enable user to store a message (via the UI) to the database at the current coordinates/location (check Lab 3 slides for storing data via SharedPreferences) Check if there is a stored message within x meters of the users current location (using the simplified method) and show the message in a notification; hide the notification if the user leaves the vicinity
